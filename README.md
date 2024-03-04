@@ -1,1 +1,1 @@
-# mtd-itsa-service-guide-prototype.github.io
+# mtd-itsa-service-guide-prototype
